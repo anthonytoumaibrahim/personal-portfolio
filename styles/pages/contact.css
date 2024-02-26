@@ -1,0 +1,33 @@
+.contact-card {
+  width: 70%;
+  margin: auto;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 20px 40px 20px 40px;
+}
+.form-input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #cccccc;
+  font-family: inherit;
+  outline: none;
+}
+.form-input:focus {
+  border-color: #7c878b;
+}
+.form-button {
+  display: block;
+  margin: auto;
+  padding: 10px 40px;
+  background-color: #2f82a0;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.form-button:hover {
+  background-color: #499fbe;
+}
