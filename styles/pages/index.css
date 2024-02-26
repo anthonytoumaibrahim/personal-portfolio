@@ -16,7 +16,13 @@
 }
 .portfolio-description {
   width: 60%;
-  margin-right: 30px;
+  padding-right: 30px;
+}
+@media (min-width: 1376px) {
+  .portfolio-pic {
+    width: 39.5%;
+    text-align: right;
+  }
 }
 .portfolio-pic img {
   width: 230px;
