@@ -27,3 +27,12 @@ a:hover {
   margin-top: 8px;
   float: right;
 }
+.footer {
+  width: 35%;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 13px;
+  border-top: 1px solid #bbbbbb;
+  padding-top: 15px;
+  color: #6e6e6e;
+}
