@@ -15,7 +15,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
+p, ul {
+  line-height: 22px;
+}
 .header {
   padding: 20px;
   margin-bottom: 20px;
